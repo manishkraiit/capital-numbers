@@ -31,5 +31,5 @@ Run projects in following orders to consume the api ->
 
 api exposed through api-gateway.. api-gateway is single point for entry that internally use service-registry to resolve the actual service
 
-API testing done via Postman and added the POSTMAN calling details in the file, Same can be imported in postman and can be tested after running the api -
+API testing done via Postman and added the POSTMAN calling details in the below file, same can be imported in postman and can be tested after running the api -
 Matches.postman_calls
